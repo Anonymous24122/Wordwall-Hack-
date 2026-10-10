@@ -13,6 +13,7 @@ Uruchamianie
 2. Otwórz DevTools (`Ctrl + Shift + J`) i wklej ten niechlujny fragment kodu z pliku [index.js](index.js);
 3. Naciśnij `Enter` i **dopiero teraz możesz zmienić szablon (Template), *jeśli chcesz***;
 4. Wywołaj funkcję `addEntry(wynik, nick, czas)`, gdzie `wynik` to po prostu liczba punktów, `nick` to po prostu nickname, a `czas` to po prostu czas (np. 1234, będzie odpowiadać 1.2 s na tablicy rankingowej);
+5. Musisz odświeżyć stronę i wejść w dany szablon (template), **jeśli go zmieniałeś**.
 ---
 Przykład:
 > ``` JS
@@ -21,6 +22,3 @@ Przykład:
 > | Widok przed zmianą | Widok po zmianie |
 > | ------------------ | ---------------- |
 > | <img width="532" height="863" alt="image" src="https://github.com/user-attachments/assets/82efb704-870f-4d05-acdf-3adb604dd1ff" />     | <img width="533" height="867" alt="image" src="https://github.com/user-attachments/assets/8141dfaf-5964-484a-8106-5d2df0c5d847" />     |
-
-> [!IMPORTANT]
-> Musisz odświeżyć widok i wejść w dany szablon (template), **jeśli go zmieniałeś**.
