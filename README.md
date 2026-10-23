@@ -13,7 +13,7 @@ Uruchamianie
 1. Upewnij się że przed wklejeniem tego kodu nie zmieniałeś szablonu w Wordwall;
 2. Otwórz DevTools (`Ctrl + Shift + J`) i wklej ten niechlujny fragment kodu z pliku [index.js](index.js);
 3. Naciśnij `Enter` i **dopiero teraz możesz zmienić szablon (Template), *jeśli chcesz***;
-4. Wywołaj funkcję `addEntry(wynik, nick, czas)`, gdzie `wynik` to po prostu liczba punktów, `nick` to po prostu nickname, a `czas` to po prostu czas (np. 1234, będzie odpowiadać 1.2 s na tablicy rankingowej);
+4. Wywołaj funkcję `addEntry(wynik, nick, czas)`, gdzie `wynik` to po prostu liczba punktów, `nick` to po prostu nickname, a `czas` to po prostu czas (np. 1234, będzie odpowiadać w zaokrągleniu do 1.2 s na tablicy rankingowej);
 5. Musisz odświeżyć stronę i wejść w dany szablon (template), **jeśli go zmieniałeś**.
 ---
 Przykład:
