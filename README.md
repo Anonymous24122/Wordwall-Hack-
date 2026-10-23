@@ -6,6 +6,7 @@
 > Ten kod może w przyszłości przestać działać (np. z powodu zmiany architektury platformy Wordwall).  
 > Działa tylko wtedy jeśli autor zadania ***włączył Leaderboard***!  
 > **Nie możesz zmieniać szablonu zadania przed pozwoleniem na zmianę w instrukcjach**!
+> **Może być konieczne wpisanie `allow pasting` w DevTools**.
 
 ---
 Uruchamianie
